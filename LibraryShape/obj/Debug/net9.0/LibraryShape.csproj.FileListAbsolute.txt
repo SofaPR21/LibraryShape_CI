@@ -1,0 +1,11 @@
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\bin\Debug\net9.0\LibraryShape.deps.json
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\bin\Debug\net9.0\LibraryShape.dll
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\bin\Debug\net9.0\LibraryShape.pdb
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\obj\Debug\net9.0\LibraryShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\obj\Debug\net9.0\LibraryShape.AssemblyInfoInputs.cache
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\obj\Debug\net9.0\LibraryShape.AssemblyInfo.cs
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\obj\Debug\net9.0\LibraryShape.csproj.CoreCompileInputs.cache
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\obj\Debug\net9.0\LibraryShape.dll
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\obj\Debug\net9.0\refint\LibraryShape.dll
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\obj\Debug\net9.0\LibraryShape.pdb
+D:\ОК ФКС\BibliotekaClassov\LibraryShape\obj\Debug\net9.0\ref\LibraryShape.dll
