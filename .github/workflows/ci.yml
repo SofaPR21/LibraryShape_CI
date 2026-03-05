@@ -21,7 +21,7 @@ jobs:
         run: dotnet nuget locals all --clear
 
       - name: Restore
-        run: dotnet Restore
+        run: dotnet restore
 
       - name: build
         run: dotnet build --no-restore
