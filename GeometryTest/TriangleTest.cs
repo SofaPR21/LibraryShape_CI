@@ -68,5 +68,13 @@ namespace GeometryTest
             var result = triangle.ToString();
             Assert.Equal(answer, result);
         }
+
+        [Fact]
+        public void TestTriangle_Perimeter_Fatal()
+        {
+            Triangle triangle = new Triangle(4, 5, 6);
+            var result = triangle.Perimeter();
+            Assert.Equal(15, result);
+        }
     }
 }
