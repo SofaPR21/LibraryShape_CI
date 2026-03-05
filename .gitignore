@@ -27,3 +27,7 @@ TestResults/
 *.coverage
 *.coverage.xml
 *.CoverletSourceRootsMapping
+
+# NuGet temporary files
+**/obj/*.nuget.*
+**/obj/project.*.cache
