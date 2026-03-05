@@ -1,5 +1,0 @@
-<Project>
-  <PropertyGroup>
-    <RestorePackagesPath>$(MSBuildProjectDirectory)/packages</RestorePackagesPath>
-  </PropertyGroup>
-</Project>
