@@ -74,7 +74,7 @@ namespace GeometryTest
         {
             Triangle triangle = new Triangle(4, 5, 6);
             var result = triangle.Perimeter();
-            Assert.Equal(16, result);
+            Assert.Equal(15, result);
         }
     }
 }
